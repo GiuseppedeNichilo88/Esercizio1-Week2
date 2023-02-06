@@ -1,0 +1,17 @@
+body {
+background-color: #415fe1;
+font-family: 'Roboto', sans-serif;
+color: white;
+margin-left: 15%;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
